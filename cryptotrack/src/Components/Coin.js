@@ -26,13 +26,13 @@ const Coin = ({
             ) : (
               <p className="priceChange green">{priceChange.toFixed(2)}%</p>
             )}
-            <p className="coinVolume">$ {marketCap.toLocaleString()}</p>
-            <button
+            <p className="coinVolume">Market Cap: $ {marketCap.toLocaleString()}</p>
+            <button 
               onClick={() => {
                 history.push(`/CoinPage/${id}`);
               }}
-            >
-              More Info
+            > 
+              Price Stats
             </button>
           </div>
         </div>

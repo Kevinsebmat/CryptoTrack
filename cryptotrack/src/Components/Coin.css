@@ -67,6 +67,8 @@
   white-space: nowrap;
 }
 
+
+
 .coinData {
   display: flex;
   text-align: right;
@@ -97,7 +99,7 @@
 }
 
 .coin button {
-  margin-left: 20px;
+  margin-left: 150px;
   height: 30px;
   width: 100px;
   padding: 0px 10px 0px 10px;
