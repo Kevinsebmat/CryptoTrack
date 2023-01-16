@@ -4,7 +4,7 @@ A website that fetches data from api to show users constantly updated informatio
 
 * Search functionality that uses hook to constantly refresh and search as letters are typed.
 
-* Information includes price, % price change, total market cap, and volume changes. 
+* Information includes price, % price change, total market cap, volume and lows and highs for a given day. 
 
 
 
