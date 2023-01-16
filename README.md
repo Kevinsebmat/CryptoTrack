@@ -1,8 +1,10 @@
 # CryptoTrack
  
-A website that fetches data from api to show user constantly updated information on the top crypto coins. 
+A website that fetches data from api to show users constantly updated information on the top crypto coins. 
 
-Information includes price, % price change, total market cap and much more. 
+* Search functionality that uses hook to constantly refresh and search as letters are typed.
+
+* Information includes price, % price change, total market cap, and volume changes. 
 
 
 
